@@ -22,9 +22,10 @@
 
 ## Pages & Features
 
-<img width="1470" alt="스크린샷" src="https://github.com/user-attachments/assets/58e926b2-2e03-48c5-9dcd-9cfbdb342151">
+**Main**
+![프로토타입 - HOME](https://github.com/user-attachments/assets/cef3a5e1-8b49-4812-83fb-53102a2f1685)
 
-
-
+**Detail**
+![프로토타입 - 강의](https://github.com/user-attachments/assets/c5dfc99a-a8be-457f-8ac5-ce1e4e6e4bf1)
 
 
