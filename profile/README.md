@@ -10,7 +10,7 @@
 
 
 ## Introduction
-|PM 이영재|BE 강현수|BE 이영주|FE 강민준|
+|PM/FE 이영재|BE 강현수|BE 이영주|FE 강민준|
 |------|---|---|--|
 |<img width="200" height="230" alt="icon" src="https://github.com/user-attachments/assets/4d4e81c4-2894-4e42-a88a-6076f2ce8c6d">|<img src=""  width="210" height="230">|<img width="210" height="230"  src="">|<img src=""  width="210" height="230">|
 
